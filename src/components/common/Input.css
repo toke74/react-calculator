@@ -1,0 +1,16 @@
+.input {
+  height: 4em;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  align-items: center;
+  font-weight: bold;
+  font-size: 1.4em;
+  background-color: rgba(245, 233, 233, 0.605);
+
+  /* background-color: #edf3f3e1; */
+  color: black;
+  padding: 0.5em;
+  outline: 1.5px solid #fafafaf3;
+  /* margin-left: 10px; */
+}

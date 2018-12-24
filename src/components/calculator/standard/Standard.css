@@ -1,0 +1,33 @@
+.standard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  /* height: 90vh; */
+  margin-top: 90px;
+  width: 100%;
+}
+
+.calc-wrapper {
+  width: 500px;
+  height: 500px;
+}
+
+.row {
+  display: flex;
+  width: 100%;
+  margin: 0;
+}
+
+button {
+  height: 3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: rgba(250, 249, 249, 0.52); */
+  background-color: rgba(255, 255, 255, 0);
+  color: black;
+  flex: 1;
+  outline: 2px solid #f3f0f0f1;
+  font-weight: lighter;
+}

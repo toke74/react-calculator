@@ -1,0 +1,25 @@
+.lenght {
+  margin-left: 300px;
+  margin-top: 160px;
+}
+
+.volume {
+  margin-left: 300px;
+  margin-top: 160px;
+}
+
+.selectLength {
+  border-style: none;
+  font-size: 1.3em;
+  height: 40px;
+  width: 250px;
+  background-image: linear-gradient(236deg, #94e7e396, #acc9e5);
+}
+
+.selectLength option {
+  background-color: #94e7e396;
+}
+
+.fromLenght {
+  margin-bottom: 40px;
+}
